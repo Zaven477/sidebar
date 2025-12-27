@@ -7,3 +7,7 @@
 Запуск проекта
 
 # npm run dev
+
+Ссылка на проект
+
+https://sidebar-jade-delta.vercel.app/
